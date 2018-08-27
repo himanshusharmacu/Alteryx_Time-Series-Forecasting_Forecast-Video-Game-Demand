@@ -11,13 +11,17 @@ Time Series Forecasting is a powerful analytical tool. In this course, you learn
 
 ## Steps to Success
 * Step 1: Investigate and Prepare the Data
+
 -> Look at your data set and determine whether the data is appropriate to use time series models. Determine which records should be held for validation later on.
 
 * Step 2: Determine Trend, Seasonal and Error components
+
 -> Graph the data set and decompose the time series into its three main components: trend, seasonality, and error.
 
 * Step 3: Build your Models
+
 -> Determine the appropriate measurements to apply to your ARIMA and ETS models and describe the errors for both models.
 
 * Step 4: Forecast
+
 -> Compare the in-sample error measurements to both models and compare error measurements for the holdout sample in your forecast. Choose the best fitting model and forecast the next four periods.
